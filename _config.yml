@@ -30,7 +30,7 @@ linkedinUsername: alanlee1209
 # Build settings
 markdown: kramdown
 
-#theme: green # green, blue, orange, purple, grey
+theme: pink # green, blue, orange, purple, grey
 fixedNav: 'false' # true or false
 
 permalink: /:year/:month/:title
