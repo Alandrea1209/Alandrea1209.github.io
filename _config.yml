@@ -30,8 +30,6 @@ linkedinUsername: alanlee1209
 # Build settings
 markdown: kramdown
 
-#Jekyll Feed
-gems: - jekyll-feed
 
 #theme: green # green, blue, orange, purple, grey
 fixedNav: 'false' # true or false
