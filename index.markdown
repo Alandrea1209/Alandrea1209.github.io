@@ -3,13 +3,11 @@ layout: page
 title: Alan Lee
 ---
 
-I'm a softenginner in YongMing Technology Consulting from 2013. I'm also a Android developer freelancer.
+Hi, my name is Alan. I’m a Software Engineer in YongMing Technology Consulting from 2013. In this position, I have been developing Hemodialysis Information System for NTHU which is based on web form. Furthermore, I excuted some projects, such as developing enterprise website and social community application for intracompany (Android App).I'm also a Android developer freelancer.
 
-I'm also a Starter on GitHub. Currently, I spend some my free time developing some projects in Android and Java, some of which are open source and available on my GitHub account: [https://github.com/alandrea1209](https://github.com/alandrea1209)
+I'm a Starter on GitHub. Currently, I spend some my free time developing some projects in Android and Java, some of which are open source and available on my GitHub account: [https://github.com/alandrea1209](https://github.com/alandrea1209)
 
 You can also find my Android apps in Google Play:[https://play.google.com/store/apps/developer?id=Alandrea.dev](https://play.google.com/store/apps/developer?id=Alandrea.dev)
-
-This is my personal blog, where I'll be posting content related to software engineering.
 
 <!-- ## Heading Level 2
 
