@@ -13,7 +13,7 @@ categories: perosnal
     <tr>
         <td>1.樂活臉書</td>
         <td>2.淡江時報隨手看</td>
-        <td>3. 關西旅遊書</td>
+        <td>3.關西旅遊電子書</td>
     </tr>
     <tr>
         <td>
