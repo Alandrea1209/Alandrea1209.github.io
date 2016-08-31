@@ -9,9 +9,6 @@ I'm a Starter on GitHub. Currently, I spend some my free time developing some pr
 
 You can also find my Android apps in Google Play:[https://play.google.com/store/apps/developer?id=Alandrea.dev](https://play.google.com/store/apps/developer?id=Alandrea.dev)
 
-<!--<iframe width="480" height="360" src="https://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
-
-<iframe src="https://appetize.io/embed/3yjbw6afvy68h06t5f6a2hatqm?device=nexus5&scale=75&autoplay=false&orientation=portrait&deviceColor=black" width="300px" height="597px" frameborder="0" scrolling="no"></iframe>-->
 
 <!-- ## Heading Level 2
 
