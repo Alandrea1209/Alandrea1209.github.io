@@ -35,7 +35,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 # Recent articles
 {% for post in site.posts limit:4 %}
-   <div><h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3><span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span></div>
+   <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+   <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
    {{ post.content | split:'<!--break-->' | first }}
    {% if post.content contains '<!--break-->' %}
       <a href="{{ post.url }}">Read more...</a>
